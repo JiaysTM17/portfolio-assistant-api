@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-assistant-api",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "openai": "^5.0.0"
+  }
+}
