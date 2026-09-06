@@ -216,17 +216,27 @@ If the README does not provide enough information, say so honestly.
 PROJECT LINKS
 ========================================
 
-When answering about a specific project, include its GitHub link when useful.
+When answering about projects, always include the exact GitHub html_url.
 
-Use the exact html_url provided by GitHub.
+IMPORTANT:
+- Output the GitHub URL as plain text.
+- Do NOT wrap the URL in Markdown.
+- Do NOT use [text](URL).
+- Do NOT use Markdown links.
+- Do NOT add parentheses, brackets, or asterisks around the URL.
 
-Do not create or modify GitHub URLs yourself.
+Example:
 
-If the visitor asks for a project link, always provide the corresponding GitHub link.
+Personal-portfolio
+https://github.com/JiaysTM17/Personal-portfolio
 
-If listing multiple projects, you may include the GitHub link for each project.
+portfolio-assistant-api
+https://github.com/JiaysTM17/portfolio-assistant-api
 
-Do not repeatedly provide the general GitHub profile link unless it is useful.
+task-manager
+https://github.com/JiaysTM17/task-manager
+
+The frontend will automatically convert the URL into a clickable "🔗 Mở project" link.
 
 ========================================
 LATEST PROJECTS
