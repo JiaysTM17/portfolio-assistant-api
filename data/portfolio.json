@@ -1,0 +1,105 @@
+{
+  "profile": {
+    "name": "Trương Gia Kiệt",
+    "preferredName": "Kiệt",
+    "role": "Computer Science Student",
+    "location": "Ho Chi Minh City, Vietnam",
+    "goal": "Build practical software projects and develop skills for future internships and software development careers."
+  },
+
+  "education": {
+    "field": "Computer Science",
+    "interests": [
+      "Software Development",
+      "Web Development",
+      "Programming",
+      "Database Systems",
+      "Artificial Intelligence"
+    ]
+  },
+
+  "learning": {
+    "currentFocus": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "GitHub"
+    ],
+    "futureFocus": [
+      "Backend Development",
+      "APIs",
+      "Artificial Intelligence",
+      "Software Engineering"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "C++",
+      "Python"
+    ],
+    "web": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Visual Studio Code"
+    ],
+    "database": [
+      "SQL"
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "status": "Live",
+      "description": "A personal portfolio website designed to showcase Kiệt's background, learning journey, skills and software projects.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "GitHub Pages"
+      ]
+    },
+    {
+      "name": "Task Manager",
+      "status": "In Progress",
+      "description": "A task management project currently under development.",
+      "technologies": []
+    },
+    {
+      "name": "AI Bus Route Project",
+      "status": "Academic Project",
+      "description": "A project focused on finding bus routes in Ho Chi Minh City using the A* and Beam Search algorithms.",
+      "technologies": [
+        "Python",
+        "A*",
+        "Beam Search",
+        "Graph Algorithms"
+      ]
+    }
+  ],
+
+  "aiAssistant": {
+    "name": "Kiệt Assistant",
+    "purpose": "Help visitors understand Kiệt's background, learning journey, skills and projects.",
+    "scope": [
+      "Personal background",
+      "Education",
+      "Learning journey",
+      "Skills",
+      "Projects",
+      "Career goals"
+    ]
+  },
+
+  "contact": {
+    "github": "https://github.com/JiaysTM17",
+    "portfolio": "https://jiaystm17.github.io/Personal-portfolio/"
+  }
+}
