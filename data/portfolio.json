@@ -4,16 +4,17 @@
     "preferredName": "Kiệt",
     "role": "Computer Science Student",
     "location": "Ho Chi Minh City, Vietnam",
-    "goal": "Build practical software projects and develop skills for future internships and software development careers."
+    "headline": "Computer Science Student | Aspiring Software Developer | Building practical projects",
+    "goal": "Software Development Internship"
   },
 
   "education": {
-    "field": "Computer Science",
+    "major": "Computer Science",
     "interests": [
       "Software Development",
       "Web Development",
       "Programming",
-      "Database Systems",
+      "Database",
       "Artificial Intelligence"
     ]
   },
@@ -24,7 +25,8 @@
       "CSS",
       "JavaScript",
       "Git",
-      "GitHub"
+      "GitHub",
+      "Software Development Fundamentals"
     ],
     "futureFocus": [
       "Backend Development",
@@ -34,67 +36,22 @@
     ]
   },
 
-  "skills": {
-    "programming": [
-      "C++",
-      "Python"
-    ],
-    "web": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "tools": [
-      "Git",
-      "GitHub",
-      "Visual Studio Code"
-    ],
-    "database": [
-      "SQL"
-    ]
+  "career": {
+    "direction": "Software Development",
+    "lookingFor": "Internship opportunities",
+    "workExperience": "No professional work experience listed yet."
   },
 
-  "projects": [
-    {
-      "name": "Personal Portfolio",
-      "status": "Live",
-      "description": "A personal portfolio website designed to showcase Kiệt's background, learning journey, skills and software projects.",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "GitHub Pages"
-      ]
-    },
-    {
-      "name": "Task Manager",
-      "status": "In Progress",
-      "description": "A task management project currently under development.",
-      "technologies": []
-    },
-    {
-      "name": "AI Bus Route Project",
-      "status": "Academic Project",
-      "description": "A project focused on finding bus routes in Ho Chi Minh City using the A* and Beam Search algorithms.",
-      "technologies": [
-        "Python",
-        "A*",
-        "Beam Search",
-        "Graph Algorithms"
-      ]
-    }
-  ],
-
-  "aiAssistant": {
+  "assistant": {
     "name": "Kiệt Assistant",
-    "purpose": "Help visitors understand Kiệt's background, learning journey, skills and projects.",
-    "scope": [
-      "Personal background",
-      "Education",
-      "Learning journey",
-      "Skills",
-      "Projects",
-      "Career goals"
+    "purpose": "AI assistant for Trương Gia Kiệt's personal portfolio.",
+    "projectSource": "Public GitHub repositories",
+    "rules": [
+      "Use public GitHub repository data as the source of truth for projects.",
+      "Do not invent projects, features, technologies, experience, or achievements.",
+      "Do not mention projects that are not currently public on GitHub.",
+      "If a project is incomplete, describe it only using information available from GitHub.",
+      "Answer in the same language as the visitor whenever possible."
     ]
   },
 
